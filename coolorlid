@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tableau</title>
+        <link href="file:///C:/Users/com/Documents/my%20html/Apps/bootstrap-4.5.0-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="Tableau-project.css" type="text/css">
+        <script defer src="file:///C:/Users/com/Documents/my%20html/Apps/bootstrap-4.5.0-dist/fontawesome/js/all.js"></script>
+
+        
+    </head>
+    <body>
+        
+       <nav class="navbar navbar-expand-lg bg-white sticky-top">
+           <a class="navbar-brand ml-4" href="#"><img src="Images/logo.png" alt="logo" width="140px" ></a>
+           <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#tableaucollapse" aria-controls="tableaucollapse" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span></button>
+
+            <div class="collapse navbar-collapse" id="tableaucollapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">  <a href="#" class="nav-link">Products</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">Solutions</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">Learning</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">Community</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">Support</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">About</a></li>
+                    <li class="nav-item">  <a href="#" class="nav-link">COVID-19</a></li>
+                </ul>   
+                <ul class="navbar-nav ml-auto">
+                  <li class="nav-item"><a class="nav-link" href="#"> Pricing</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#">Sign in</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                </ul>
+            </div><br>  
+       </nav>
+       
+           <div class="jumbotron jumb1 text-center text-white text-weight-light col-12"> 
+               <h1 class="display-4">Tableau Certification</h1>
+               <h5 class="display-4">Skill up and stand out. Advance equity with data.</h5>
+            </div>
+    
+            <div class="container-flu jumb2 col-12">
+                <h4 class="text-center text-weight-light display-4">July is #CertifiablyTableau Month </h4><br>
+                <div class="container text1">
+                    <P>Ways you can participate all month long </P>
+                    <ol>
+                        <li><p><b>Get Certified:</b>  10% off Tableau Desktop Certified Associate and Tableau Server Certified Associate exams this month. Plus, for every exam sold we’ll donate a Tableau Desktop Specialist exam to help build the data skills of Black-led and equity-focused organizations</p></li>
+
+                        <li><p><b>Follow along on social:</b>  Throughout the month, stay in the loop by following the #CertifiablyTableau hashtag.</p></li>
+
+                        <li><p><b>Nominate someone for the new Certifiably Tableau Spotlight:</b>  Submit your  suggestions <a class="text-" href="#">here</a>. Selected nominees will be featured on our  <a href="#">Certifiably Tableau Talent</a>  page.</p></li>
+                    </ol>
+                </div>
+            </div>
+            <div class="container">
+                <h4 class="text-center text-weight-light display-4">Why Certify?</h4><br>
+                <p>Analytical reasoning is the #3 most-needed hard skill in 2020, according to LinkedIn. Start paving the way to your future and boost your resume with in-demand data expertise</p>
+                <div class="btn btn-outline-danger ml-auto">See More Benefits</div>
+            </div>
+            <div class="container">
+                <h4 class="text-center text-weight-light display-4">Product exams</h4><br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/1000specialist.jpg" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Specialist</a></h5>
+                                <p class="card-text">Prove your basic skills and product knowledge <br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/1000cerass.jpg" alt="" >
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Associate</a></h5>
+                                <p class="card-text"><b>10% off for the month of July</b> <br><br>
+
+                                    Prove your comprehensive skills and expertise <br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="card">
+                            <img class="card-img-top" src="Images/1000cerpro.jpg" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Professional</a></h5>
+                                <p class="card-text">Prove your advanced skills and expertise with visual best practices <br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div> 
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/1000cerass_s.jpg" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Associate</a></h5>
+                                <p class="card-text"><b>10% off for the month of July</b> <br><br>
+
+                                    Prove your administrative skills and platform knowledge<br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+
+                        <div class="card">
+                            <img class="card-img-top" src="Images/1000cerpro_s.jpg" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Professional</a></h5>
+                                <p class="card-text">Prove your architectural knowledge and platform integration expertise<br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div>        
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h4 class="text-center text-weight-light display-4">Partner exam</h4><br>
+                <div class="row mt-4">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/tableaucommunity2.png" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Associate Consultant</a></h5>
+                                <p class="card-text"><b>For Tableau Partners only</b> <br><br>
+
+                                    Prove your knowledge of Tableau platform implementation, best practices and maintenance<br><br>
+                                    <a class="card-link" href="#">GO TO PARTNER PORTAL</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+
+                        <div class="card">
+                            <img class="card-img-top" src="Images/tableaucommunity.png" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Associate Architect</a></h5>
+                                
+                                <p class="card-text"><b>For Tableau Partners only</b> <br><br> Prove your knowledge of visual best practices and Tableau products<br><br>
+                                    <a class="card-link" href="#">GO TO PARTNER PORTAL</a></p>
+                            </div>        
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container mt-4 col-12">
+                <h4 class="text-center display-4 mt-4">Benefits of certification</h4><br>
+                <p>No matter where your career takes you, Tableau Certification will be relevant anywhere in any industry or role. Certification title holders all get access to the exclusive benefits shown below.</p>  
+            </div>
+
+            <div class="container mt-5">
+                <table class="table table table-striped table-borderless table-hover">
+                    <thead>
+                        <tr>
+                            <th class="scope"></th>
+                            <th class="scope">SPECIALIST</th>
+                            <th class="scope">ASSOCIATE</th>
+                            <th class="scope">PROFESSIONAL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr >
+                            <td >Digital Badge to prove your skills</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Recognition in Certification Directory</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>PDF eCertificate for download</td>z
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Exclusive access to Certifiably Tableau swag</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>40% discount on renewal exam</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Certifiably Tableau t-shirt</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="container-fluid mt-4">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12 ">
+                        <h4 class="display-4">Get hired</h4>
+                        <p>Hiring managers look for the Tableau Certified stamp of approval. Hear from Cisco's Ken Patton on why Tableau Certification differentiates you from other candidates</p>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <img class="img-fluid" src="Images/cisco_1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="jumbotron jumb1 text-center text-white text-weight-light col-12"> 
+                <h1 class="display-4">Certifiably Tableau Talent</h1>
+                <div class="btn btn-outline-light text-light">SEE WHO'S CERTIFIED</div>
+            </div>
+
+            <div class="container">
+                <h4 class="display-4">Certification process</h4>
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <h4 class="display-4">Review the Program FAQ</h4>
+                        <p>Get your questions about the program answered and decide which exams are right for you.</p>
+                        <div> <a href="#">REVIEW NOW</a></div>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <h4 class="display-4">Certification process</h4>
+                        <p>In addition to real-life experience, prepare for exams with virtual or eLearning courses.</p>
+                        <div> <a href="#">REVIEW NOW</a></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <h4 class="display-4">Register for your exam</h4>
+                        <p>Create a new account through Loyalist Exam Services and get your exam on the books.</p>
+                        <div><a href="#">REGISTER NOW</a></div>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <h4 class="display-4">Set up your computer</h4>
+                        <p>To avoid technical headaches or system issues, follow this guide to set up your computer before your exam.</p>
+                        <div> <a href="#">GET THE GUIDE</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h4 class="text-center text-weight-light display-4">Product exams</h4><br>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/tc17_cps.png" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Boosting your Skills to make an impact is Certifiably Tabeau</a></h5>
+                                <p class="card-text">Prove your basic skills and product knowledge <br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="card">
+                            <img class="card-img-top" src="Images/elearnig.png" alt="" >
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Associate</a></h5>
+                                <p class="card-text"><b>10% off for the month of July</b> <br><br>
+
+                                    Prove your comprehensive skills and expertise <br><br>
+                                    <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="card">
+                            <img class="card-img-top" src="Images/screen_shot.png" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a class="card-link" href="#">Tableau Desktop Certified Professional</a></h5>
+                                <p class="card-text">Prove your advanced skills and expertise with visual best practices <br><br>
+                                <a class="card-link" href="#">ENTER DETAILS</a></p>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="page-footer bg-dark">
+                <div class="container-fluid">
+                    <div class="row">                    
+                        <div class="col-md-12">
+                            <div class="flex-left ">
+                                <a class="btn btn-outline" href="#">English (US)</a> 
+                                <a href="#">System Status</a>                      
+                                <a href="#">Blog</a>
+                                <a href="#">Developer</a>
+                                <a href="#">Academic</a>
+                                <a href="#">Careers</a>
+                                <a href="#">Contact Us</a><br>
+                                <div class="flex-left text-mute">
+                                    <a href="#">LEGAL</a>
+                                    <a href="#">PRIVACY</a>
+                                    <a href="#">UNISTALL</a>
+                                    <a href="#">DO NOT SELL MY PERSONAL INFORMATION</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+            </footer>
+
+
+        <script type="text/javascript" src="file:///C:/Users/com/Documents/my%20html/Apps/bootstrap-4.5.0-dist/jquery/jquery.js"></script>
+        <script type="text/javascript" src="file:///C:/Users/com/Documents/my%20html/Apps/bootstrap-4.5.0-dist/popper/popper.js"></script>
+        <script type="text/javascript" src="file:///C:/Users/com/Documents/my%20html/Apps/bootstrap-4.5.0-dist/js/bootstrap.min.js"></script>
+        
+    </body>
+</html>
